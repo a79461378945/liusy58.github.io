@@ -14,5 +14,3 @@ Now I rank the 3rd out of 240 students in the department with GPA 4.00/4.00.
 
 
 
-
-
