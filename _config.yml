@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Siyu Liu(刘斯宇)"
 title_separator          : "-"
-name                     : &name "Siyu Liu"
+name                     : &name "Siyu Liu(刘斯宇)"
 description              : &description "personal description"
 url                      : https://liusy58.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
