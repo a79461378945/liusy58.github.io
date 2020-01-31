@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Liusy58's Blog"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
