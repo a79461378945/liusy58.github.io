@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 I’m currently a bachelor student in Sun Yat-Sen University.
-I rank the 3rd out of 240 students in the department with GPA 4.00/4.00.
+
+Now I rank the 3rd out of 240 students in the department with GPA 4.00/4.00.
 
 
 
